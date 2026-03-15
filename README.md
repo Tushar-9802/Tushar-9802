@@ -1,4 +1,4 @@
-## Tushar Jaju — ML Engineer
+## Tushar Jaju 
 
 Fine-tuning large language models on consumer hardware. Developing and Researching real-life projects.
 
