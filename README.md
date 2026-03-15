@@ -39,8 +39,10 @@ Second paper in preparation: *Preventing Catastrophic Forgetting in Cross-Modal 
 ### Open Source
 
 **[llmclean](https://pypi.org/project/llmclean/)** — zero-dependency Python library for cleaning and normalizing raw LLM output · PyPI
-**Model Adapters[HuggingFace](https://huggingface.co/Tushar9802)** - Trained Adapters for the fine-tuned models.
-**[Kaggle](https://www.kaggle.com/tusharjaju)** - Datasets created for the projects.
+
+**[Model Adapters](https://huggingface.co/Tushar9802)** — Trained LoRA adapters for MedScribe, Bawarchi, and the Hybrid Summariser · HuggingFace
+
+**[Datasets](https://www.kaggle.com/tusharjaju)** — Curated training datasets for all projects · Kaggle
 ---
 
 ### Stack
